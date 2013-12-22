@@ -1,0 +1,5 @@
+ao_test:
+    resource: "@AOTestBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
